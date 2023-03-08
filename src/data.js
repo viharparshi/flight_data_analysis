@@ -43,6 +43,23 @@ const data = [
     },
   },
   {
+    price: 399,
+    depart: '2023-03-25',
+    arrival: '2023-03-25',
+    departTime: '4.20 pm',
+    arrivalTime: '6.35 pm',
+    code: 'KC-6339',
+    flightImg: emirates,
+    from: {
+      city: 'Kansas-MCI',
+      short: 'MCI',
+    },
+    to: {
+      city: 'Orlando-ORL',
+      short: 'ORL',
+    },
+  },
+  {
     price: 5500,
     depart: '2021-02-25',
     arrival: '2021-02-25',

@@ -27,7 +27,7 @@ function TicketCard(props) {
                       }}
                     >
                       <span>
-                        <b>₹ {data.price * passengerCount}</b>
+                        <b>$ {data.price * passengerCount}</b>
                       </span>
                       <span style={{ fontSize: '11px' }}>
                         <b>{passengerCount} P</b>

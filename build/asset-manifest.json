@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d40137bc.css",
-    "main.js": "/static/js/main.cc6ae3c6.js",
+    "main.js": "/static/js/main.1838c2c6.js",
     "static/js/496.af56addf.chunk.js": "/static/js/496.af56addf.chunk.js",
     "static/media/Saudia.png": "/static/media/Saudia.ca6e0f57db684c98432a.png",
     "static/media/qatar_Airways.png": "/static/media/qatar_Airways.4845b9dea92926368240.png",
@@ -13,11 +13,11 @@
     "static/media/airplane.png": "/static/media/airplane.969b2a3d6474a5b524df.png",
     "index.html": "/index.html",
     "main.d40137bc.css.map": "/static/css/main.d40137bc.css.map",
-    "main.cc6ae3c6.js.map": "/static/js/main.cc6ae3c6.js.map",
+    "main.1838c2c6.js.map": "/static/js/main.1838c2c6.js.map",
     "496.af56addf.chunk.js.map": "/static/js/496.af56addf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d40137bc.css",
-    "static/js/main.cc6ae3c6.js"
+    "static/js/main.1838c2c6.js"
   ]
 }
