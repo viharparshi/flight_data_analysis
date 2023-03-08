@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d2db9f8d.css",
+    "main.js": "/static/js/main.63739886.js",
+    "static/js/496.af56addf.chunk.js": "/static/js/496.af56addf.chunk.js",
+    "static/media/Saudia.png": "/static/media/Saudia.ca6e0f57db684c98432a.png",
+    "static/media/qatar_Airways.png": "/static/media/qatar_Airways.4845b9dea92926368240.png",
+    "static/media/Kuwait_Airways.png": "/static/media/Kuwait_Airways.72f39500b2914f808b48.png",
+    "static/media/vistara.png": "/static/media/vistara.9e076750d515b7ce24bd.png",
+    "static/media/airIndia.png": "/static/media/airIndia.1dff4a8f09ea22d6d9b2.png",
+    "static/media/airAsia.png": "/static/media/airAsia.22c5033b4ba93c55fb6e.png",
+    "static/media/emirates.png": "/static/media/emirates.2481f6c106c512342534.png",
+    "static/media/airplane.png": "/static/media/airplane.969b2a3d6474a5b524df.png",
+    "index.html": "/index.html",
+    "main.d2db9f8d.css.map": "/static/css/main.d2db9f8d.css.map",
+    "main.63739886.js.map": "/static/js/main.63739886.js.map",
+    "496.af56addf.chunk.js.map": "/static/js/496.af56addf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2db9f8d.css",
+    "static/js/main.63739886.js"
+  ]
+}
