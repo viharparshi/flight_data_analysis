@@ -1,5 +1,5 @@
 import React from "react";
-import forwardArrow from "../assets/Forward.svg";
+// import forwardArrow from "../assets/Forward.svg";
 import TicketCard from "./TicketCard";
 import EmptyPage from "./emptyPage";
 
@@ -39,7 +39,7 @@ function Result(props) {
               >
                 Available flights{" "}
                 <span>
-                  <img src={forwardArrow} alt="arrow" className="ml-2" />
+                  {/* <img src={forwardArrow} alt="arrow" className="ml-2" /> */}
                 </span>
               </div>
             </div>
